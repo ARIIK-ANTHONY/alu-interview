@@ -1,6 +1,6 @@
 Pascal's Triangle
 
-guillaume@ubuntu:~/$ ./0-main.py
+root@DESKTOP-BPHIKKF:~# ./0-main.py
 [1]
 [1,1]
 [1,2,1]
