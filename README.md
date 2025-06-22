@@ -1,4 +1,5 @@
 Pascal's Triangle
+
 root@DESKTOP-BPHIKKF:~# ./0-main.py
 [1]
 [1,1]
